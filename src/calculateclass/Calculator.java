@@ -1,4 +1,4 @@
-package CalculateClass;
+package calculateclass;
 
 import java.math.BigDecimal;
 

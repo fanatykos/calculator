@@ -1,4 +1,4 @@
-package Reader;
+package reader;
 
 import java.util.Scanner;
 
@@ -8,7 +8,7 @@ public class SentenceReader {
 
 	public String readSentence() {
 		
-			System.out.println("Podaj sentencjê do obliczenia.");
+			System.out.println("Podaj sentencjï¿½ do obliczenia.");
 			String sentence= input.nextLine();
 			input.close();
 		return sentence;

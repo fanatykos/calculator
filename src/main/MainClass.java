@@ -1,8 +1,8 @@
-package Main;
+package main;
 
-import CalculateClass.Calculator;
-import Reader.Printer;
-import Reader.SentenceReader;
+import calculateclass.Calculator;
+import reader.Printer;
+import reader.SentenceReader;
 
 public class MainClass {
 	public static void main(String[] args) {
